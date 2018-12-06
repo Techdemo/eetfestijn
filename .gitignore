@@ -1,1 +1,4 @@
 node_modules
+.travis.yml
+gulpfile.js
+LICENSE
